@@ -7,7 +7,7 @@ The length of a month varies from 28 to 31 days. In this exercise you will creat
 
 
 Sample Input 1
-
+ 
 February
 
 Sample Output 1
