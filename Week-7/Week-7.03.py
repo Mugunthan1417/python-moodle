@@ -8,7 +8,7 @@ Input Format:
 
 Take an input integer from stdin.
 
-
+  
 
 Output Format:
 
