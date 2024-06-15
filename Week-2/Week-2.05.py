@@ -7,7 +7,7 @@ Sample Input:
 10000
 
 Sample Output:
-
+ 
 Balance as of end of Year 1: $10400.00.
 
 Balance as of end of Year 2: $10816.00.
