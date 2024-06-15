@@ -10,7 +10,7 @@ Explanation : Sorted by sum, and replaced.
 
  Input : test_dict = {‘Gfg’ : [8,8], ‘best’ : [5,5]}
 
-Output : {‘best’: 10, ‘Gfg’: 16}
+Output : {‘best’: 10, ‘Gfg’: 16}  
 
 Explanation : Sorted by sum, and replaced.
 
