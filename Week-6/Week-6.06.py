@@ -4,7 +4,7 @@ Return Second World in Uppercase
 
 Write a program that takes as input a string (sentence), and returns its second word in uppercase.
 
-
+  
 
 For example:
 
