@@ -7,7 +7,7 @@ Given an listof integers, sort the array in ascending order using the Bubble Sor
 2.      First Element: firstElement, the  first element in the sorted list.
 
 3.      Last Element: lastElement, the last element in the sorted list.
-
+  
 For example, given a worst-case but small array to sort: a=[6,4,1]. It took  3 swaps to sort the array. Output would be
 
 Array is sorted in 3 swaps.  
