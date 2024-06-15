@@ -8,7 +8,7 @@ Output Format: Print a message based on the age or an error if the input is inva
 
 
 
-
+  
 For example:
 
 Input	Result
