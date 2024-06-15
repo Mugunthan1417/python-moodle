@@ -15,7 +15,7 @@ Output:
 Explanation: We cannot type "world" because the 'd' key is broken.
 
 
-
+  
 For example:
 
 Input	Result
