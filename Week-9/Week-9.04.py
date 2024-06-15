@@ -1,7 +1,7 @@
 Student Record
 
 
-
+ 
 Create a student dictionary  for n students with the student name as key and their test mark assignment mark and lab mark as values. Do the following computations and display the result.
 
 1.Identify the student with the  highest average score
