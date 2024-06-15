@@ -10,7 +10,7 @@ The next two lines contain the space-separated integer arrays to be compared.
 
 
 
-Sample Input:
+Sample Input:  
 
 5 4
 
