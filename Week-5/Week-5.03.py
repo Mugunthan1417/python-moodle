@@ -1,4 +1,4 @@
-Count Elements
+eCount Elements
 
 Complete the program to count frequency of each element of an array. Frequency of a particular element will be printed once.
 
@@ -6,7 +6,7 @@ Sample Test Cases
 
  Test Case 1
 
- Input
+ Input  
 
  7
 
