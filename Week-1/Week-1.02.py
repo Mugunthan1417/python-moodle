@@ -9,7 +9,7 @@ Sample Input:
 10000
 
 Sample Output:
-
+ 
 16000
 
 For example:
