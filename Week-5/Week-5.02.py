@@ -8,7 +8,7 @@ Input Format
 
 2.      N, followed by N integers of the array
 
-3.      The non-negative integer k
+3.      The non-negative integer k   
 
 Output format
 
