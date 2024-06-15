@@ -6,7 +6,7 @@ Input Format:
 
 User inputs a number.
 
-Output Format:
+Output Format: 
 
 Confirm the input or print an error message if it's invalid or out of range.
 
