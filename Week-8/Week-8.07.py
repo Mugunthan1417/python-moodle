@@ -9,7 +9,7 @@ In the American keyboard:
 ●	the second row consists of the characters "asdfghjkl", and
 
 ●	the third row consists of the characters "zxcvbnm"
-
+  
  
 
 
