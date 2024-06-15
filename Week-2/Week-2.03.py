@@ -7,7 +7,7 @@ Mr. X's birthday is in next month. This time he is planning to invite N of his f
 Input Given: 
 
 N-No of friends
-
+ 
 P1,P2,P3 AND P4-No of chocolates
 
 OUTPUT:
