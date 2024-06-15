@@ -7,7 +7,7 @@ An element a[i] is a peak element if
 A[i-1] <= A[i] >=a[i+1] for middle elements. [0<i<n-1]
 
 A[i-1] <= A[i] for last element [i=n-1]
-
+ 
 A[i]>=A[i+1] for first element [i=0]
 
 Input Format
