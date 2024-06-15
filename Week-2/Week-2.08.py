@@ -14,7 +14,7 @@ If the battle can be won print True otherwise print False.
 
 
 
-Sample Input:
+Sample Input: 
 
 32
 
