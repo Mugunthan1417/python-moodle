@@ -22,7 +22,7 @@ Input 1:
 
 Output 1:
 
-C
+C 
 
 
 
