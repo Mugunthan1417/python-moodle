@@ -6,7 +6,7 @@ Hint:
 
 If the final result(hrs) are in -ve convert that to +ve using abs() function
 
-The abs() function returns the absolute value of the given number.
+The abs() function returns the absolute value of the given number. 
 
 
 
