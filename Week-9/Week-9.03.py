@@ -5,7 +5,7 @@ Given an array of names of candidates in an election. A candidate name in the ar
 Examples: 
 
 Input :  votes[] = {"john", "johnny", "jackie",
-
+ 
                     "johnny", "john", "jackie",
 
                     "jamie", "jamie", "john",
