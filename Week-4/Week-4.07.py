@@ -8,7 +8,7 @@ Test Case 1
 
 Input
 
-4          
+4            
 
 Output
 
