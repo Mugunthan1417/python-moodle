@@ -6,7 +6,7 @@ Input Format:
 
 User inputs a number.
 
-Output Format:
+Output Format:  
 
 Print the square root of the number or an error message if an exception occurs.
 
