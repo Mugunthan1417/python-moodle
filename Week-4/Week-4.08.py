@@ -13,7 +13,7 @@ If the given number is 1015, the program should return 3 because there are 3 uni
 For example:
 
 Input	Result
-
+    
 292	2
 
 1015	3
