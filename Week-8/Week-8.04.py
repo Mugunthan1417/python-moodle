@@ -8,7 +8,7 @@ Input: nums = [1,3,4,2,2]
 
 Output: 2
 
-
+   
 
 Example 2:
 
