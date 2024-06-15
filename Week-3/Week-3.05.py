@@ -5,7 +5,7 @@ In this exercise you will create a program that reads a letter of the alphabet f
 Sample Input 1
 
 i
-
+ 
 Sample Output 1
 
 It's a vowel.
