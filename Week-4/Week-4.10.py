@@ -1,10 +1,10 @@
-Perfect Square After adding One
+ Perfect Square After adding One
 
 Given an integer N, check whether N the given number can be made a perfect square after adding 1 to it.
 
 Input Format:
 
-Single integer input.
+Single integer input  
 
 Output Format:
 
