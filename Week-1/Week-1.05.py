@@ -11,7 +11,7 @@ Sample Input
 Sample Output
 
 Your total refund will be $6.00.
-
+ 
 
 
 For example:
