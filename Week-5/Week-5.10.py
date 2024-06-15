@@ -6,7 +6,7 @@ Input:
 
 n : Number of elements
 
-List1: List of values
+List1: List of values  
 
 Output
 
